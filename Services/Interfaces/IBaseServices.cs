@@ -9,9 +9,10 @@ namespace ContactApp.Services.Interfaces
 {
     internal interface IBaseServices<T>
     {
-        public void Create(T text);
-        public void Update(T text);
-        public void Delete(T text);
+        public void Create(Contact contact);
+        public void Update(int id, Contact contact);
+        public void Delete(int id);
+        
 
     }
 }

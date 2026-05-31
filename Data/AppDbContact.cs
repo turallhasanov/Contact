@@ -10,6 +10,6 @@ namespace ContactApp.Data
     internal class AppDbContact<T>
     {
 
-        public static List<T> Contacts = new List<T>();
+        public static List<Contact> Contacts = new List<Contact>();
     }
 }

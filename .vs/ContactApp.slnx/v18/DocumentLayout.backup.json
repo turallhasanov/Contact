@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hasanov\\Desktop\\Contact\\Contact\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|c:\\users\\hasanov\\desktop\\contact\\contact\\helpers\\exceptions\\contactnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|solutionrelative:helpers\\exceptions\\contactnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|c:\\users\\hasanov\\desktop\\contact\\contact\\services\\contactservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|solutionrelative:services\\contactservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|c:\\users\\hasanov\\desktop\\contact\\contact\\data\\appdbcontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|solutionrelative:data\\appdbcontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|c:\\users\\hasanov\\desktop\\contact\\contact\\services\\baseservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|solutionrelative:services\\baseservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|c:\\users\\hasanov\\desktop\\contact\\contact\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|c:\\users\\hasanov\\desktop\\contact\\contact\\services\\interfaces\\ibaseservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|solutionrelative:services\\interfaces\\ibaseservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|c:\\users\\hasanov\\desktop\\contact\\contact\\services\\interfaces\\icontactservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|solutionrelative:services\\interfaces\\icontactservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|c:\\users\\hasanov\\desktop\\contact\\contact\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|solutionrelative:controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|c:\\users\\hasanov\\desktop\\contact\\contact\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|solutionrelative:models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|c:\\users\\hasanov\\desktop\\contact\\contact\\contactapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|solutionrelative:contactapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|c:\\users\\hasanov\\desktop\\contact\\contact\\helpers\\enums\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9319549B-9D0B-1BE6-3141-0AA3CF7111CC}|ContactApp.csproj|solutionrelative:helpers\\enums\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Hasanov\\Desktop\\Contact\\Contact\\Helpers\\Exceptions\\ContactNotFoundException.cs",
+              "RelativeDocumentMoniker": "Helpers\\Exceptions\\ContactNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Hasanov\\Desktop\\Contact\\Contact\\Helpers\\Exceptions\\ContactNotFoundException.cs",
+              "RelativeToolTip": "Helpers\\Exceptions\\ContactNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T13:57:39.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBaseServices.cs",
+              "DocumentMoniker": "C:\\Users\\Hasanov\\Desktop\\Contact\\Contact\\Services\\Interfaces\\IBaseServices.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IBaseServices.cs",
+              "ToolTip": "C:\\Users\\Hasanov\\Desktop\\Contact\\Contact\\Services\\Interfaces\\IBaseServices.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IBaseServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T11:27:25.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Operations.cs",
+              "DocumentMoniker": "C:\\Users\\Hasanov\\Desktop\\Contact\\Contact\\Helpers\\Enums\\Operations.cs",
+              "RelativeDocumentMoniker": "Helpers\\Enums\\Operations.cs",
+              "ToolTip": "C:\\Users\\Hasanov\\Desktop\\Contact\\Contact\\Helpers\\Enums\\Operations.cs",
+              "RelativeToolTip": "Helpers\\Enums\\Operations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T11:23:39.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContact.cs",
+              "DocumentMoniker": "C:\\Users\\Hasanov\\Desktop\\Contact\\Contact\\Data\\AppDbContact.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContact.cs",
+              "ToolTip": "C:\\Users\\Hasanov\\Desktop\\Contact\\Contact\\Data\\AppDbContact.cs",
+              "RelativeToolTip": "Data\\AppDbContact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T20:14:54.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactServices.cs",
+              "DocumentMoniker": "C:\\Users\\Hasanov\\Desktop\\Contact\\Contact\\Services\\ContactServices.cs",
+              "RelativeDocumentMoniker": "Services\\ContactServices.cs",
+              "ToolTip": "C:\\Users\\Hasanov\\Desktop\\Contact\\Contact\\Services\\ContactServices.cs",
+              "RelativeToolTip": "Services\\ContactServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T20:03:46.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContactApp.csproj",
+              "DocumentMoniker": "C:\\Users\\Hasanov\\Desktop\\Contact\\Contact\\ContactApp.csproj",
+              "RelativeDocumentMoniker": "ContactApp.csproj",
+              "ToolTip": "C:\\Users\\Hasanov\\Desktop\\Contact\\Contact\\ContactApp.csproj",
+              "RelativeToolTip": "ContactApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-30T19:54:07.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hasanov\\Desktop\\Contact\\Contact\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Hasanov\\Desktop\\Contact\\Contact\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T19:51:15.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IContactServices.cs",
+              "DocumentMoniker": "C:\\Users\\Hasanov\\Desktop\\Contact\\Contact\\Services\\Interfaces\\IContactServices.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IContactServices.cs",
+              "ToolTip": "C:\\Users\\Hasanov\\Desktop\\Contact\\Contact\\Services\\Interfaces\\IContactServices.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IContactServices.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAawA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T19:49:47.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\Hasanov\\Desktop\\Contact\\Contact\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\Hasanov\\Desktop\\Contact\\Contact\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAOgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T19:48:34.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\Hasanov\\Desktop\\Contact\\Contact\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\Hasanov\\Desktop\\Contact\\Contact\\Models\\Contact.cs",
+              "RelativeToolTip": "Models\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T19:48:14.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseServices.cs",
+              "DocumentMoniker": "C:\\Users\\Hasanov\\Desktop\\Contact\\Contact\\Services\\BaseServices.cs",
+              "RelativeDocumentMoniker": "Services\\BaseServices.cs",
+              "ToolTip": "C:\\Users\\Hasanov\\Desktop\\Contact\\Contact\\Services\\BaseServices.cs",
+              "RelativeToolTip": "Services\\BaseServices.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAiwEQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T19:38:29.561Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
